@@ -1,0 +1,538 @@
+
+
+.one {
+  width: 1440px;
+  height: 1024px;
+  background: black;
+}
+.title {
+    font-size: 138px;
+
+    position: absolute;
+    top: -115px;
+    left: 212px;
+    margin: 0 auto;
+    color: white;
+
+}
+.title2 {
+  font-size: 295px;
+  font-style: normal;
+  position: absolute;
+  left: 328px;
+  top: 92px;
+  margin: 0 auto;
+  color: white;
+}
+.t1 {
+
+  color: white;
+  position: absolute;
+  left: 1057px;
+  top: 859px;
+}
+.sans {
+  font-size: 138px;
+  position: absolute;
+  top: 35px;
+  left: 1032px;
+  margin: 0 auto;
+  color: white;
+  transform: rotate(90deg);
+}
+
+.img1 {
+  position: absolute;
+  margin: 0 auto;
+  top: 29px;
+  left:32px;
+}
+.img2 {
+  position: absolute;
+  margin: 0 auto;
+  top: 170px;
+  left: 182px;
+}
+.img3 {
+  position: absolute;
+  margin: 0 auto;
+  left: 857px;
+  top: 481px;
+}
+.m {
+  font-size: 295px;
+  font-style: normal;
+  position: absolute;
+  margin: 0 auto;
+  top: -88px;
+  left:198px;
+  color: white;
+  transform: rotate(334deg);
+}
+.f1 {
+  position: relative;
+  width: 940px;
+  top: -17px;
+  left: 98px;
+}
+.FSM {
+  position: relative;
+  width: 940px;
+  top: 13px;
+  left: -4px;
+}
+.t2 {
+  width: 640px;
+}
+.punkt {
+margin-left: 548px;
+margin-top: -448px;
+}
+.tablet {
+  margin: 0 auto;
+  position: absolute;
+  width: 30%;
+  top:1512px;
+  left: 189px;
+}
+.form1 {
+  font-size: 111px;
+  position: relative;
+  top: -922px;
+  left: 530px;
+  margin: 0 auto;
+}
+.form2 {
+  font-size: 70px;
+  position: relative;
+  top: -1290px;
+  left: -228px;
+  margin: 0 auto;
+  transform: rotate(180deg)
+}
+.form3 {
+  font-size: 130px;
+  position: relative;
+  top: -1600px;
+  left: 740px;
+  margin: 0 auto;
+}
+.f12 {
+  position: absolute;
+  width: 940px;
+  top: 1388px;
+  left: 540px;
+}
+}
+.PK {
+  margin: 0 auto;
+  position: absolute;
+  width: 30%;
+  top:0px;
+  left: 0px;
+}
+
+.f21 {
+  margin: 0 auto;
+  position: absolute;
+  width: 50%;
+  top: 2018px;
+  left: 89px;
+}
+.history {
+
+  position: relative;
+  top: 25px;
+  left: 3px;
+}
+.t3 {
+  width: 610px;
+}
+.f22 {
+  margin: 0 auto;
+  position: absolute;
+  width: 50%;
+  top: 2233px;
+  left: 785px;
+}
+.helvetica {
+  font-size: 60px;
+  position: relaive;
+  top: 35px;
+  left: 1032px;
+  margin: 0 auto;
+  color: black;
+}
+.sans2 {
+  font-size: 90px;
+  position: relative;
+  top: -160px;
+  left: 2px;
+  margin: 0 auto;
+  color: black;
+}
+.comic {
+  font-size: 70px;
+  position: relative;
+  top: -147px;
+  left: 73px;
+  margin: 0 auto;
+  color: black;
+  transform: rotate(90deg);
+}
+.neue {
+  font-size: 135px;
+  position: relative;
+  top: -650px;
+  left: -36px;
+  margin: 0 auto;
+  color: black;
+}
+.four {
+  position: absolute;
+  margin-top: 1760px;
+  width: 1440px;
+  height: 1024px;
+  background:#D1C7D8;
+  /* убрать в конце!!!!! */
+  opacity: 60%;
+}
+.f31 {
+  margin: 0 auto;
+  position: absolute;
+  width: 70%;
+  top: -400px;
+  left: 110px;
+}
+.fontlines {
+  margin: 0 auto;
+  position: absolute;
+  width: 100%;
+  top: 20px;
+  left: 50px;
+}
+.tb1{
+  font-size: 340px;
+  position: relative;
+  top: 0;
+  left: 20px;
+  margin: 0 auto;
+  color: black;
+}
+.tb2{
+  font-size: 340px;
+  position: relative;
+  top: -958px;
+  left:340px;
+  margin: 0 auto;
+  color: black;
+}
+.X0{
+  font-size: 308px;
+  position: relative;
+  top: -1436px;
+  left:-29px;
+  margin: 0 auto;
+  color: black;
+}
+
+.X{
+  font-size: 308px;
+  position: relative;
+  top: -2308px;
+  left: 230px;
+  margin: 0 auto;
+  color: black;
+}
+.X1 {
+  font-size: 308px;
+  position: relative;
+  top: -3176px;
+  left:500px;
+  margin: 0 auto;
+  color: black;
+}
+.f32 {
+  margin: 0 auto;
+  position: absolute;
+  width: 30%;
+  top: -438px;
+  left: 1050px;
+}
+.a {
+  font-size: 400px;
+  position: relative;
+  top:-110px;
+  left:0;
+  margin: 0 auto;
+  color: black;
+}
+.M {
+    font-size: 280px;
+    position: relative;
+    top: -700px;
+    left:40px;
+    margin: 0 auto;
+    color: black;
+  }
+.textfont1 {
+  font-size: 12px;
+  position: relative;
+  top: -4600px;
+  left:-190px;
+  margin: 0 auto;
+  color: black;
+  transform: rotate(282deg);
+}
+.textfont2 {
+  font-size: 12px;
+  position: relative;
+  top: -3670px;
+  left: 30px;
+  margin: 0 auto;
+  color: black;
+}
+.textfont3 {
+  font-size: 12px;
+  position: relative;
+  top: -1768px;
+  left: -30px;
+  margin: 0 auto;
+  color: black;
+}
+.textfont4 {
+  font-size: 12px;
+  position: relative;
+  top: -1333px;
+  left: -60px;
+  margin: 0 auto;
+  color: black;
+}
+.textfont5 {
+  font-size: 12px;
+  position: relative;
+  top: 283px;
+  margin: 0 auto;
+  color: black;
+}
+.glyfes {
+  margin: 0 auto;
+  position: absolute;
+  width: 100%;
+  top: 4139px;
+  left: 140px;
+}
+.f41 {
+  margin: 0 auto;
+  position: absolute;
+  width: 70%;
+  top: 4042px;
+  left: 92px;
+}
+.variant {
+  position: relative;
+  top:54px;
+}
+.t4 {
+  width: 610px;
+}
+.vral {
+  font-size: 33px;
+  margin: 0 auto;
+  color: white;
+  position: absolute;
+  width: 70%;
+  top: 634px;
+  left: 548px;
+  transform: rotate(-28deg);
+}
+.academic {
+  font-size: 8px;
+  margin: 0 auto;
+  color: black;
+  position: absolute;
+  top: 483px;
+  left: 548px;
+}
+.academic1 {
+  font-size: 8px;
+  margin: 0 auto;
+  color: black;
+  position: absolute;
+  top: 483px;
+  left: 650px;
+}
+.academic2 {
+  font-size: 8px;
+  margin: 0 auto;
+  color: black;
+  position: absolute;
+  top: 483px;
+  left: 752px;
+}
+.academic3 {
+  font-size: 8px;
+  margin: 0 auto;
+  color: black;
+  position: absolute;
+  top: 483px;
+  left: 858px;
+}
+.five {
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 5120px;
+background: black;
+}
+.sochetaemoe {
+  position: absolute;
+  font-size: 90px;
+  top: 80px;
+  left: 140px;
+  color: white;
+  font-style: normal;
+  font-weight: bold;
+}
+.nesochetaemogo {
+  position: absolute;
+  font-size: 90px;
+  top:460px;
+  left:310px;
+  margin: 0 auto;
+  color: #A9FF66;
+  transform: rotate(180deg)
+}
+.six{
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  left: 0px;
+  top: 6144px;
+  background: #D1C7D8;
+  /* убрать в конце!!! */
+  opacity: 80%;
+}
+.bages {
+margin: 0 auto;
+position: absolute;
+width: 100%;
+top: 210px;
+left: 24px;
+}
+.P1 {
+  margin: 0 auto;
+  position: absolute;
+  width: 100%;
+  top: -186px;
+  left: 470px;
+}
+.f61 {
+margin: 0 auto;
+position: absolute;
+width: 80%;
+}
+.A1 {
+  font-size: 148px;
+  margin: 0 auto;
+  position: relative;
+  top: 140px;
+  left: 340px;
+  transform: rotate(24deg);
+}
+.B {
+  font-size: 230px;
+  margin: 0 auto;
+  position: relative;
+  top: -400px;
+  left: 160px;
+  transform: rotate(24deg);
+}
+.A2 {
+  font-size: 70px;
+  margin: 0 auto;
+  position: relative;
+  top: -320px;
+  left: 656px;
+  transform: rotate(-15deg);
+}
+.S1 {
+  font-size: 210px;
+  margin: 0 auto;
+  position: relative;
+  top: -1560px;
+  left: 644px;
+  transform: rotate(-12deg);
+}
+.name {
+  margin: 0 auto;
+  position: relative;
+  width: 500px;
+  top: -1845px;
+  left: -121px;
+  transform: rotate(25deg);
+}
+.work{
+  margin: 0 auto;
+  position: relative;
+  width: 230px;
+  top: -1718px;
+  left: -370px;
+  font-size: 20px;
+  transform: rotate(25deg);
+}
+.f62 {margin: 0 auto;
+position: absolute;
+width: 20%;
+}
+.A3 {
+  font-size: 70px;
+  margin: 0 auto;
+  position: relative;
+  top: 315px;
+  left: 1160px;
+}
+.C {
+  font-size: 138px;
+  margin: 0 auto;
+  position: relative;
+  top: 198px;
+  left: 1140px;
+
+}
+.S2 {
+  font-size: 330px;
+  margin: 0 auto;
+  position: relative;
+  top: -1000px;
+  left: 1040px;
+  transform: rotate(-70deg)
+}
+.name1 {
+  margin: 0 auto;
+  position: relative;
+  top: -1389px;
+  left: 1100px;
+  font-size: 15px;
+}
+.work1 {
+  margin: 0 auto;
+  position: relative;
+  width: 280px;
+  top: -1220px;
+  left: 1100px;
+  font-size: 12px;
+}
+.sides {
+  margin: 0 auto;
+  position: absolute;
+  width: 100%;
+  top: 7263px;
+}
+.f71 {
+  margin: 0 auto;
+  position: absolute;
+  top: 7570px;
+  width: 80%;
+}
